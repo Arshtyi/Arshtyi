@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 ## About Me
 I am pursuing a bachelor's degree in Computer Science and Technology at Shandong University.
 
-You can reach me via QQ: 640006128 or email: 8956230x@gmail.com.
+You can reach me via :
+- QQ: 640006128 or 3842004484
+- email: 8956230x@gmail.com
 
 <span>
 <img src="https://github-readme-stats.vercel.app/api?username=Arshtyi&show_icons=true&theme=radical" width="51%"  />
