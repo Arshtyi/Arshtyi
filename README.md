@@ -1,6 +1,7 @@
 # About Me
 
-I am pursuing a bachelor's degree in Computer Science and Technology at Shandong University.
+-   I am pursuing a bachelor's degree in Computer Science and Technology at Shandong University.
+-   I am a science fiction enthusiast and also passionate about card games, especially Yu-Gi-Oh!
 
 You can reach me via :
 
@@ -17,7 +18,7 @@ You can reach me via :
 ## Learning Plan
 
 -   LaTeX
--   CMake
+-   Advanced Algebra
 -   Deep-Learning
 
 ## Awards and Achievements
