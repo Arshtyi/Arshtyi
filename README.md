@@ -18,6 +18,7 @@ You can reach me via:
 
 -   LaTeX
 -   Advanced Algebra
+-   NLP
 -   Deep Learning
 
 ## Awards and Achievements
