@@ -14,7 +14,7 @@ You can reach me via:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arshtyi&hide=VHDL&layout=compact" width="42.62%" />
 </span>
 
-## Learning Plan
+<!-- ## Learning Plan
 
 -   LaTeX
 -   Advanced Algebra
@@ -29,4 +29,4 @@ You can reach me via:
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,js,html,css,latex,md,cpp,c,python,java,vim,ts,matlab,kotlin,cmake,cs,rust&perline=7&theme=light" />
   </a>
-</p>
+</p> -->
