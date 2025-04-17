@@ -17,11 +17,11 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arshtyi&show_icons=true&theme=tokyonight" height="160" valign="top" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Arshtyi&show_icons=true&theme=tokyonight" height="180" valign="top" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arshtyi&hide=VHDL&layout=compact&theme=tokyonight" height="160" valign="top" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arshtyi&hide=VHDL&layout=compact&theme=tokyonight" height="180" valign="top" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Arshtyi&layout=compact&theme=tokyonight" height="160" valign="top" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Arshtyi&layout=compact&theme=tokyonight" height="180" valign="top" />
 </p>
 
 <p align="center">
