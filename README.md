@@ -11,6 +11,7 @@
 
 -   QQ: 640006128
 -   Email: arshtyi_trantor@outlook.com
+-   WeChat: arshtyi_TRANTOR
 
 ---
 
@@ -18,9 +19,13 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Arshtyi&show_icons=true&theme=tokyonight" height="180" valign="top" />
-  &nbsp;
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arshtyi&hide=VHDL&layout=compact&theme=tokyonight" height="180" valign="top" />
-  &nbsp;
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Arshtyi&layout=compact&theme=tokyonight" height="180" valign="top" />
 </p>
 
@@ -32,10 +37,10 @@
 
 ## Learning Goals
 
--   LaTeX
 -   Advanced Algebra
 -   NLP
 -   Deep Learning
+-   Rust
 
 <!-- ## Awards and Achievements -->
 
