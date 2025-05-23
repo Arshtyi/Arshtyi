@@ -22,15 +22,15 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arshtyi&hide=VHDL&layout=compact&theme=tokyonight" height="180" valign="top" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arshtyi&hide=VHDL&layout=compact&theme=tokyonight" height="200" valign="top" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Arshtyi&layout=compact&theme=tokyonight" height="180" valign="top" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Arshtyi&layout=compact&theme=tokyonight" height="300" valign="top" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arshtyi&theme=nord" width="850" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arshtyi&theme=nord" width="800" />
 </p>
 
 ---
