@@ -1,4 +1,4 @@
-# About Me
+# About Arshtyi
 
 -   I am pursuing a bachelor's degree in Computer Science and Technology at Shandong University.
 -   I am a science fiction enthusiast and also passionate about card games, especially Yu-Gi-Oh!
@@ -18,19 +18,8 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arshtyi&show_icons=true&theme=tokyonight" height="180" valign="top" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arshtyi&hide=VHDL&layout=compact&theme=tokyonight" height="200" valign="top" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Arshtyi&layout=compact&theme=tokyonight" height="300" valign="top" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arshtyi&theme=nord" width="800" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Arshtyi&show_icons=true&theme=tokyonight" height="180" valign="top" style="display:inline-block; margin-right:10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arshtyi&hide=VHDL&layout=compact&theme=tokyonight" height="180" valign="top" style="display:inline-block;" />
 </p>
 
 ---
