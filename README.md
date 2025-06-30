@@ -10,7 +10,7 @@
 ### Contact Me
 
 -   QQ: 640006128
--   Email: arshtyi_trantor@outlook.com
+-   Email: arshtyi@foxmail.com
 -   WeChat: arshtyi_TRANTOR
 
 ---
@@ -27,11 +27,9 @@
 ## Learning Goals
 
 -   Advanced Algebra
--   NLP
--   Deep Learning
+-   Parallel Computing
+-   High-Performance Computing
 -   Rust
-
-<!-- ## Awards and Achievements -->
 
 ---
 
