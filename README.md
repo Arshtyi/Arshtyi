@@ -1,13 +1,14 @@
-# About Arshtyi
+# Arshtyi
 
--   I am pursuing a bachelor's degree in Computer Science and Technology at Shandong University.
--   I am a science fiction enthusiast and also passionate about card games, especially Yu-Gi-Oh!
+-   I am currently pursuing my undergraduate studies in Computer Science and Technology (Artificial Intelligence direction) at Shandong University.
+-   I enjoy science fiction novels.
+-   I like trading card games (especially Yu-Gi-Oh!).
 
 <p align="center">
   <i>"Exhausting all profound arguments is like placing a single hair in the vast emptiness; depleting the world's pivotal mechanisms is like casting a single drop into a giant abyss."</i>
 </p>
 
-### Contact Me
+## Contact Me
 
 -   QQ: 640006128
 -   Email: arshtyi@foxmail.com
@@ -15,12 +16,10 @@
 
 ---
 
-### GitHub Stats
+## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arshtyi&show_icons=true&theme=tokyonight" height="180" valign="top" style="display:inline-block; margin-right:10px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arshtyi&hide=VHDL&layout=compact&theme=tokyonight" height="180" valign="top" style="display:inline-block;" />
-</p>
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Arshtyi&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true&theme=transparent&number_format=long&rank_icon=percentile&hide_border=true" alt="Anurag's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arshtyi&layout=donut&theme=transparent&hide_border=true" /> |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 ---
 
@@ -37,6 +36,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,js,html,css,latex,md,cpp,c,python,java,vim,ts,matlab,kotlin,cmake,cs,rust&perline=7&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=arch,linux,js,html,css,electron,go,ai,lua,npm,nodejs,latex,md,c,cpp,cs,bots,dotnet,py,java,vim,ts,matlab,kotlin,cmake,rust,powershell,r,qt,vscode,vue&perline=10&theme=dark" />
   </a>
 </p>
